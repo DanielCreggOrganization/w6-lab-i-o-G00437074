@@ -4,7 +4,7 @@ import java.io.File;
 
 public class FileChecker {
     public static void main(String[] args) {
-        // Define the file to check
+        // Define the file path for output.txt
         File file = new File("resources/output.txt");
 
         // Check if the file exists
