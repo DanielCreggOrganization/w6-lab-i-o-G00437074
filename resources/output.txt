@@ -1,1 +1,2 @@
-write THIS to output.txt
+
+txt.tuptuo ot SIHT etirw
