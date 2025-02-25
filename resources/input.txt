@@ -1,1 +1,1 @@
-This is a different test string.
+write THIS to output.txt
